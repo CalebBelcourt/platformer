@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: f1235c7f57026a1438c965a914d2a5c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8708954520390056847
+    second: Mr. Cappuccino_0
+  - first:
+      213: 533550784197960760
+    second: Mr. Cappuccino_1
+  - first:
+      213: 3716507618499759689
+    second: Mr. Cappuccino_2
+  - first:
+      213: 2571818476055077701
+    second: Mr. Cappuccino_3
+  - first:
+      213: -4826205870766169316
+    second: Mr. Cappuccino_4
+  - first:
+      213: 5306764219353569273
+    second: Mr. Cappuccino_5
+  - first:
+      213: -6665979176591704259
+    second: Mr. Cappuccino_6
+  - first:
+      213: 5504376831155809159
+    second: Mr. Cappuccino_7
+  - first:
+      213: 6467043607190082199
+    second: Mr. Cappuccino_8
+  - first:
+      213: -1997893562468391967
+    second: Mr. Cappuccino_9
+  - first:
+      213: 4319410969975189341
+    second: Mr. Cappuccino_10
+  - first:
+      213: -7982520836444561317
+    second: Mr. Cappuccino_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mr. Cappuccino_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 402
+        width: 157
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d291f6f05c674dba19a6ec0a7944b
+      internalID: -8708954520390056847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 409
+        width: 144
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa785e1a923fe9449db07ebc4b83e1b
+      internalID: 533550784197960760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 409
+        width: 144
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743469e35760a064a9eb409ba9a04538
+      internalID: 3716507618499759689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 406
+        width: 110
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da503080a9c2fa4cb79bc3c96eb5470
+      internalID: 2571818476055077701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 406
+        width: 151
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a3cb660421aa4c95a2285e7695f4e
+      internalID: -4826205870766169316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 406
+        width: 144
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75472a8330c5d794b9b680e3554326f0
+      internalID: 5306764219353569273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 157
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758bdb99e59f51142ad6f8f7b674ec74
+      internalID: -6665979176591704259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 80
+        width: 151
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb8b72aaf036a540b97ea8c368bf547
+      internalID: 5504376831155809159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_8
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 80
+        width: 150
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc6e7e730003945a0cb9ec38faa45d
+      internalID: 6467043607190082199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 79
+        width: 144
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee9c1d72f314d49bc9bacce416536f
+      internalID: -1997893562468391967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 79
+        width: 151
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b540931d1dc524185729adcdce1780
+      internalID: 4319410969975189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mr. Cappuccino_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 79
+        width: 110
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0b4fb705cad744b042db7a59321af
+      internalID: -7982520836444561317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e943d5493210eb44093ba62a6c272bc2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
